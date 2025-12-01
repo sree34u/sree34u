@@ -1,61 +1,85 @@
 # Welcome 👋
 
-I'm **Sreenath**, a passionate developer who enjoys exploring new tech, building tools, and learning through projects.  
-Here’s a quick look at what I’ve been up to:
+I'm **Sreenath**, content creator with multi-domain experience for over a decade. I have masters in PSIR and currently focusing on integrating tech with Geopolitics. My core experiences are in project management, content strategy, data analysis, technology integration, process optimization and research. I am currently transitioning into **Information Technology**, focusing on programming, Linux, data, and cloud fundamentals. My background blends analytical decision-making with hands-on operational execution, making me effective across both technical and business environments.
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Summary
 
-### 💻 Languages
-![Languages](https://img.shields.io/badge/Code-Python-blue)
-![Languages](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Languages](https://img.shields.io/badge/Code-HTML-orange)
-![Languages](https://img.shields.io/badge/Code-CSS-blueviolet)
-
-### 🧰 Tools & Platforms
-![Tools](https://img.shields.io/badge/Tool-Git-red)
-![Tools](https://img.shields.io/badge/Tool-GitHub-black)
-![Tools](https://img.shields.io/badge/Tool-VS%20Code-007ACC)
-![Tools](https://img.shields.io/badge/OS-Windows-0078D6)
-![Tools](https://img.shields.io/badge/OS-Linux-green)
-
-### 🖥️ Frameworks & Libraries (optional)
-![Framework](https://img.shields.io/badge/Framework-Node.js-339933)
-![Framework](https://img.shields.io/badge/Framework-Express.js-lightgrey)
-![Framework](https://img.shields.io/badge/Framework-React-61DAFB)
+- Background in **project management, research, analytics, and digital content**  
+- Strong interest in **Linux, open source, programming, data, and IT operations**  
+- Currently upskilling in **Python, SQL, HTML, CSS, and Linux administration**  
+- Known for structured thinking, clear communication, and cross-team coordination  
+- NET Qualified in **Political Science & International Relations**, with a B.Sc. in **Physics (with Computer Science)**  
 
 ---
 
-## 🚀 Stats Dashboard
+## 🧠 Skills Overview
 
-### 📊 Overall Stats
+### **Technical**
+- **Linux**, Git, GitHub  
+- **Python**, SQL  
+- **HTML**, **CSS**, Regex  
+- Excel, Google Sheets  
+- Basic scripting and automation  
+- Data interpretation and reporting  
+
+### **Project & Content**
+- Agile workflows, GANTT charts, RACI matrices  
+- SEO tools, content planning, research frameworks  
+- Documentation systems (Google Docs, Notion, internal CMS tools)  
+
+### **Soft Skills**
+- Strategic research  
+- Stakeholder and team management  
+- Process coordination and workflow optimization  
+- Problem-solving and analytical reasoning  
+
+---
+
+## 🎓 Certifications
+
+- Google Data Analytics Professional Certificate  
+- Google Project Management Certificate
+- Postman API Fundamentals Student Expert  
+- NET Qualified — Political Science & International Relations  
+- Ongoing: Python, SQL, HTML, CSS, Linux  
+
+---
+
+## 🧭 Current Focus
+
+- Strengthening Linux and command-line capabilities  
+- Practicing Python fundamentals and small automation scripts  
+- Building SQL query proficiency through datasets and exercises  
+- Exploring open-source workflows and version control  
+- Preparing for opportunities in IT, DevOps, or data-driven roles  
+
+---
+
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=sree34u&show_icons=true&theme=transparent&cache_seconds=86400)
 
-### 🧩 Top Languages
 ![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=sree34u&layout=compact&theme=transparent&cache_seconds=86400)
 
-### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sree34u&theme=transparent)
 
 ---
 
 ## 🏆 Achievements
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=sree34u&theme=flat&margin-w=10&margin-h=10)
 
 ---
 
-## 💬 About Me
-- 🌱 Currently learning **modern JavaScript frameworks**
-- 🛠️ Enjoy working on **automation, scripts, and experimental tools**
-- 🎯 Always open to collaboration and new project ideas  
-- ⚡ Fun fact: I love solving problems that don’t need solving 😄
+## 🤝 Connect
+
+Open to discussions in **IT, data analytics, DevOps, cloud, and EdTech**.  
+Feel free to explore my work or reach out.
+
+**GitHub:** [@sree34u](https://github.com/sree34u)  
 
 ---
 
-## 📫 Connect With Me
-- GitHub: **[@sree34u](https://github.com/sree34u)**
-
----
-
-Thanks for visiting! Feel free to explore my repositories 👇
+_Always learning. Always improving._  
