@@ -59,9 +59,9 @@ I'm **Sreenath**, content creator with multi-domain experience for over a decade
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=sree34u&show_icons=true&theme=transparent&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sree34u&show_icons=true)
 
-![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=sree34u&layout=compact&theme=transparent&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sree34u&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sree34u&theme=transparent)
 
