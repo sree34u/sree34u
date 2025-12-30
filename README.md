@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sreenath
 
-**QA Automation Engineer** with 2+ years of hands-on experience in **Python & Playwright**, focused on building reliable, maintainable, and scalable automation solutions.  
+**Automation-focused QA** practitioner with hands-on experience in **Python & Playwright**, focused on building reliable, maintainable, and scalable automation solutions.  
 Background in content automation, analytics, and process optimization — bringing a structured, efficiency-driven approach to quality engineering.
 
 ---
 
 ## ⚡ Professional Snapshot
 
-- 2+ years of experience in **QA Automation (Python & Playwright)**
+- Hands-on experience in **QA automation** using **Python & Playwright**
 - Hands-on work in **UI automation, API testing, and workflow automation**
 - Strong foundation in **Linux, Git, CI/CD basics, and scripting**
 - Analytical mindset with process optimization and documentation strength
